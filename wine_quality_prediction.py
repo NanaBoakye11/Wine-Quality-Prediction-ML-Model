@@ -2,6 +2,13 @@ from pyspark.sql import SparkSession
 from pyspark.ml.classification import LogisticRegression
 from pyspark.ml.evaluation import MulticlassClassificationEvaluator
 from pyspark.ml.feature import VectorAssembler
+import os
+
+# Set the Spark home and update the PATH
+os.environ['SPARK_HOME'] = '/home/ubuntu/spark-3.5.0-bin-hadoop3'
+os.environ['PATH'] += os.pathsep + os.path.join(os.environ['SPARK_HOME'], 'bin')
+
+
 
 # Initialize Spark session
 spark = SparkSession.builder.appName("Wine Quality Prediction").getOrCreate()

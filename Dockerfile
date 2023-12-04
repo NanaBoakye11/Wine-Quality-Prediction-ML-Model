@@ -19,6 +19,9 @@ RUN curl https://bootstrap.pypa.io/pip/2.7/get-pip.py -o get-pip.py \
     && pip install pyspark 
 
 # Add Spark to PATH
+
+export SPARK_HOME=/home/ubuntu/spark-3.5.0-bin-hadoop3
+
 ENV PATH=$PATH:$SPARK_HOME/bin
 
 # Copy the current directory contents into the container at /usr/src/app
