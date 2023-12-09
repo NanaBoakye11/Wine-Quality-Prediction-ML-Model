@@ -52,7 +52,7 @@ way, the prediction model can be quickly deployed across many different environm
 * Python3, Java and Apache Spark installed on Ubuntu Linux.
 
 
-Click this <a href="https://github.com/NanaBoakye11/Wine-Quality-Prediction-ML-Model/HowToGuide.pdf">link </a> for more information.
+Click this <a href="https://github.com/NanaBoakye11/Wine-Quality-Prediction-ML-Model/blob/main/README.md">link </a> for more information.
 
 
 ## Connect
