@@ -7,7 +7,7 @@
     <a href="https://github.com/NanaBoakye11/Wine-Quality-Prediction-ML-Model"><strong>View Code »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/NanaBoakye11/Wine-Quality-Prediction-ML-Model/issues">Report Any Issues Assiciated</a>
+    <a href="https://github.com/NanaBoakye11/Wine-Quality-Prediction-ML-Model/issues">Report Any Issues Associated</a>
   </p>
 
 ## Project Overview
