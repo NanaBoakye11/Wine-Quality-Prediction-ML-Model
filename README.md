@@ -55,6 +55,3 @@ way, the prediction model can be quickly deployed across many different environm
 Click this <a href="https://github.com/NanaBoakye11/Wine-Quality-Prediction-ML-Model/blob/main/HowToGuide.pdf">link </a> for more information.
 
 
-## Connect
-
-Nana Boakye - [@LinkedIn](https://www.linkedin.com/in/boakye-nana/)
